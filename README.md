@@ -16,5 +16,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 "# my-meal" 
 
-![Screenshot (14)](https://user-images.githubusercontent.com/103518761/178317488-72eb1113-bab6-43fd-83ed-57d8f0f42966.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/103518761/178317502-250e2f73-8f76-44e2-a4fd-6174345a9e02.png)
